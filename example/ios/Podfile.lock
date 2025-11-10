@@ -1,0 +1,22 @@
+PODS:
+  - check_audio_track_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - check_audio_track_plugin (from `.symlinks/plugins/check_audio_track_plugin/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  check_audio_track_plugin:
+    :path: ".symlinks/plugins/check_audio_track_plugin/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  check_audio_track_plugin: a7b071f6fede9b951c472a9748812091b2c4b3f1
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2
